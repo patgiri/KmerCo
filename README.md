@@ -56,9 +56,6 @@ Erroneous K-mer: Disticnt K-mer having frequncy less than or euqal to threshold 
 
 # Citations
 -------------
-KmerCo:
-
-```  ````
 
 countBF:
 
