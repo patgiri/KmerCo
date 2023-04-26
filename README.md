@@ -58,8 +58,11 @@ Erroneous K-mer: Disticnt K-mer having frequncy less than or euqal to threshold 
 -------------
 KmerCo:
 
+```  ````
+
 countBF:
-Sabuzima Nayak and Ripon Patgiri. 2021. countBF: A general-purpose high accuracy and space efficient counting bloom filter. In 2021 17th International Conference on Network and Service Management (CNSM). IEEE, 355–359. 
+
+```Sabuzima Nayak and Ripon Patgiri. 2021. countBF: A general-purpose high accuracy and space efficient counting bloom filter. In 2021 17th International Conference on Network and Service Management (CNSM). IEEE, 355–359.``` 
 
 
 # Authors
